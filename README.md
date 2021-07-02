@@ -1,7 +1,7 @@
-# Express.jS
+# Express.js
 
 ## This repository
-> In this course we learned how to make an API with Node.js, to serve static files, give them security and more.
+> In this course we learned about what express.js is in a more extended way and how to implemet it in our project 
 
 #### What is express.js?
 > Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It facilitates the rapid development of Node based Web applications. 
